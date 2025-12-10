@@ -82,3 +82,38 @@ In short, this project works like a real-time biomedical vision system, using on
 
 
 ---
+### Other Projects & Learning Activities
+Here are some additional projects I built while learning React, JavaScript, MongoDB and full-stack concepts:
+
+- **ToDo App (React)** – Task manager built with React State  
+  🔗 https://github.com/KSNauman/ToDo-React  
+
+- **Weather App (React)** – Fetches real-time weather using APIs  
+  🔗 https://github.com/KSNauman/Weather_App_React  
+
+- **React useState Practice** – Experiments to master component state  
+  🔗 https://github.com/KSNauman/React_useState_practice  
+
+- **Dynamic Display in React** – Re-rendering and conditional UI logic  
+  🔗 https://github.com/KSNauman/Dynamic-display-in-React-re-render-  
+
+- **React Learning Process Repo** – Progressive learning notes + examples  
+  🔗 https://github.com/KSNauman/react_learningProcess  
+
+- **MongoDB Relationship Learning** – Understanding refs, embedding & population  
+  🔗 https://github.com/KSNauman/Mongodb-relationships-learning  
+
+- **Chats Learning Repo** – Experiments with simple chat UI logic  
+  🔗 https://github.com/KSNauman/chats-learning-  
+
+- **User Management App** – CRUD operations + user flows  
+  🔗 https://github.com/KSNauman/User-Management-App  
+
+- **Replica of Quora UI (Learning Project)** – UI/UX practice  
+  🔗 https://github.com/KSNauman/Replica_of_quora-learning-  
+
+- **Spotify Clone (UI Only)** – Music player interface using HTML/CSS/JS  
+  🔗 https://github.com/KSNauman/Spotify-clone  
+
+- **Simon Says Game (JS)** – Logic-based game to strengthen JavaScript fundamentals  
+  🔗 https://github.com/KSNauman/Simon_says-JS-based-  
