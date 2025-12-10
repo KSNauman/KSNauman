@@ -10,6 +10,7 @@ I strongly believe in consistent effort, deep learning, and building practical p
 ---
 ### What I'm Hustling On
 
+
 - Solving DSA daily to strengthen my problem-solving skills  
 - Exploring new topics and advanced concepts in the MERN stack  
 - Building a WhatsApp chatbot inspired by WeChat  
@@ -104,7 +105,7 @@ Projects that best demonstrate real development skills:
 
 ---
 
-#### 📘 Solid React & Frontend Practice  
+#### Solid React & Frontend Practice  
 Core React concepts, state handling, rendering logic:
 
 - **ToDo App (React)** – Task manager built using React state  
@@ -121,7 +122,7 @@ Core React concepts, state handling, rendering logic:
 
 ---
 
-#### 🧪 Mini Experiments & Learning Logs  
+#### Mini Experiments & Learning Logs  
 These projects track your learning journey:
 
 - **Chats Learning Repo** – Basic chat UI logic experiments  
