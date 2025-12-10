@@ -7,6 +7,13 @@ I’m currently focused on MERN Stack Development and DSA to sharpen my problem-
 
 I strongly believe in consistent effort, deep learning, and building practical projects that solve real problems. Every day, I aim to improve a little more and move closer to my long-term goals.
 
+### 📚 What I'm Hustling On
+
+- Solving DSA daily to strengthen my problem-solving skills  
+- Exploring new topics and advanced concepts in the MERN stack  
+- Building a WhatsApp chatbot inspired by WeChat  
+- **Actively understanding the codebase of Meshery (an open-source CNCF project) and contributing to it**  
+
 ## Contact Me
 <p>
   <a href="https://linkedin.com/in/k-s-nauman-ahmed-7212022aa/" target="_blank">
