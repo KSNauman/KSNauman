@@ -20,7 +20,11 @@ I strongly believe in consistent effort, deep learning, and building practical p
   <a href="https://linkedin.com/in/k-s-nauman-ahmed-7212022aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+   <a href="mailto:ksnauman639@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
+
 
 
 ## Leetcode 
