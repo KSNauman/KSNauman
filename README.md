@@ -22,7 +22,7 @@ I strongly believe in consistent effort, deep learning, and building practical p
 </p>
 
 
-##Leetcode 
+## Leetcode 
 <p>
   <a href="https://leetcode.com/u/Nauman_K_S/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
