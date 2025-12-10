@@ -8,7 +8,7 @@ I’m currently focused on MERN Stack Development and DSA to sharpen my problem-
 I strongly believe in consistent effort, deep learning, and building practical projects that solve real problems. Every day, I aim to improve a little more and move closer to my long-term goals.
 
 ---
-### 📚 What I'm Hustling On
+### What I'm Hustling On
 
 - Solving DSA daily to strengthen my problem-solving skills  
 - Exploring new topics and advanced concepts in the MERN stack  
