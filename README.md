@@ -42,11 +42,11 @@ I strongly believe in consistent effort, deep learning, and building practical p
 Wanderlust is a marketplace-style listing application where users can explore and filter different places, events, or items. It is built using Node.js, Express, MongoDB (Mongoose), and EJS templates.
 
 The app allows:
-Displaying all listings on the home page
-Filtering listings by categories like Trending, Popular, New
-Full CRUD operations (Create, Read, Update, Delete) for listings
-Adding and managing user reviews on listings
-Validating data before saving to the database In short, Wanderlust works like a mini Airbnb/marketplace clone where users can browse listings, check details, and interact with them through reviews.
+ - Displaying all listings on the home page
+ - Filtering listings by categories like Trending, Popular, New
+ - Full CRUD operations (Create, Read, Update, Delete) for listings
+ - Adding and managing user reviews on listings
+ - Validating data before saving to the database In short, Wanderlust works like a mini Airbnb/marketplace clone where users can browse listings, check details, and  - interact with them through reviews.
 
 [View Project](https://github.com/KSNauman/Wanderlust)
 
@@ -56,15 +56,15 @@ Validating data before saving to the database In short, Wanderlust works like a 
 This project is a real-time camera-based heart rate detection application built using Flask, OpenCV, YOLOv8, NumPy, and SciPy. It uses computer vision and signal processing to estimate heart rate (BPM) without any physical sensor.
 
 The app allows:
-Detecting a user’s face using a YOLOv8 ONNX face model
-Extracting multiple ROIs (forehead + under-eyes) for accurate rPPG signal detection
-Measuring heart rate using green-channel intensity, bandpass filtering, and FFT
-Streaming real-time video processed through a Flask backend
-Displaying BPM with live status messages (Gym Mode or Patient Mode)
-Opening a native “Mirror View” window while safely sharing the camera feed
-Switching between web-stream view and mirror view using multi-threading
-Handling camera failures gracefully with fallback webcam logic
-Smoothing and stabilizing BPM using rolling-window averaging
+ - Detecting a user’s face using a YOLOv8 ONNX face model
+ - Extracting multiple ROIs (forehead + under-eyes) for accurate rPPG signal detection
+ - Measuring heart rate using green-channel intensity, bandpass filtering, and FFT
+ - Streaming real-time video processed through a Flask backend
+ - Displaying BPM with live status messages (Gym Mode or Patient Mode)
+ - Opening a native “Mirror View” window while safely sharing the camera feed
+ - Switching between web-stream view and mirror view using multi-threading
+ - Handling camera failures gracefully with fallback webcam logic
+ - Smoothing and stabilizing BPM using rolling-window averaging
 
 In short, this project works like a real-time biomedical vision system, using only a webcam to detect heart rate with rPPG-based signal extraction and a clean Flask dashboard for monitoring.
 
