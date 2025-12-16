@@ -14,7 +14,7 @@ I strongly believe in consistent effort, deep learning, and building practical p
 - Solving DSA daily to strengthen my problem-solving skills  
 - Exploring new topics and advanced concepts in the MERN stack  
 - Building a WhatsApp chatbot inspired by WeChat  
-- **Actively understanding the codebase of Meshery (an open-source CNCF project) and contributing to it**
+- Actively understanding the codebase of Meshery (an open-source project) and contributing to it
 
 ## Contact Me
 <p>
