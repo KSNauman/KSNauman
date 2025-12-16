@@ -88,8 +88,7 @@ Here are some additional projects I built while learning React, JavaScript, Mong
 
 ---
 
-#### High-Value Learning Activities  
-Projects that best demonstrate real development skills:
+#### Major Learning Projects  
 
 - **User Management App** – CRUD operations, user flows, and interface logic  
   🔗 https://github.com/KSNauman/User-Management-App  
@@ -105,8 +104,8 @@ Projects that best demonstrate real development skills:
 
 ---
 
-#### Solid React & Frontend Practice  
-Core React concepts, state handling, rendering logic:
+#### Frontend & React Practice  
+Focused projects to strengthen React fundamentals and UI logic:
 
 - **ToDo App (React)** – Task manager built using React state  
   🔗 https://github.com/KSNauman/ToDo-React  
@@ -122,8 +121,8 @@ Core React concepts, state handling, rendering logic:
 
 ---
 
-#### Mini Experiments & Learning Logs  
-These projects track your learning journey:
+#### Concept Experiments & Learning Logs
+Small projects created to understand core concepts deeply:  
 
 - **Chats Learning Repo** – Basic chat UI logic experiments  
   🔗 https://github.com/KSNauman/chats-learning-  
